@@ -1,0 +1,11 @@
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\obj\Debug\GanzenBord_Database.csprojAssemblyReference.cache
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\bin\Debug\GanzenBord_Database.exe.config
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\bin\Debug\GanzenBord_Database.exe
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\bin\Debug\GanzenBord_Database.pdb
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\obj\Debug\GanzenBord_Database.exe
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\obj\Debug\GanzenBord_Database.pdb
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\bin\Debug\EntityFramework.dll
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\bin\Debug\EntityFramework.xml
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Iana Detusheva\source\repos\GanzenBord_Database\GanzenBord_Database\obj\Debug\GanzenBord_Database.csproj.CopyComplete

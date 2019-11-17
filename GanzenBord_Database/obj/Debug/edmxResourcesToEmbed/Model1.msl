@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseForGanzenbordModelStoreContainer" CdmEntityContainer="DatabaseForGanzenbordEntities3">
+    <EntitySetMapping Name="Spelers">
+      <EntityTypeMapping TypeName="DatabaseForGanzenbordModel.Speler">
+        <MappingFragment StoreEntitySet="Spelers">
+          <ScalarProperty Name="NameOfSpeler" ColumnName="NameOfSpeler" />
+          <ScalarProperty Name="Positie" ColumnName="Positie" />
+          <ScalarProperty Name="Gewonnen" ColumnName="Gewonnen" />
+          <ScalarProperty Name="TooMuch" ColumnName="TooMuch" />
+          <ScalarProperty Name="Speler_id" ColumnName="Speler_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
